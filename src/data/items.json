@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Sunglasses",
+      "price": 10.99,
+      "imgUrl": "/images/sunglasses.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Scooter",
+      "price": 1199,
+      "imgUrl": "/images/scooter.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hat....(Kid not included)",
+      "price": 41.99,
+      "imgUrl": "/images/dallas.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Necktie and shoes",
+      "price": 140.00,
+      "imgUrl": "/images/necktie.jpg"
+    }
+  ]
